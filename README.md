@@ -7,3 +7,4 @@ https://medium.com/@swapnil.s.pakolu/angular-interceptors-multiple-interceptors-
 
 
 https://github.com/asadsahi/AspNetCoreSpa/blob/master/src/AspNetCoreSpa.Web/ClientApp/src/app/services/interceptors/timing-interceptor.ts
+http://denricdenise.info/2019/11/etms-time-management-system-reporting-tool/
